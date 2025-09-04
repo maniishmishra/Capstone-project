@@ -50,6 +50,7 @@ Churn distribution
 Churn distribution wrt Gender
 
 <img width="990" height="554" alt="Image" src="https://github.com/user-attachments/assets/1f13a8b5-9c20-47e4-a466-af7182b33384" />
+
 There is negligible difference in customer percentage/count who changed the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.`
 
 # 3. Customer Contract distribution:
@@ -78,11 +79,13 @@ Churn distribution w.r.t dependents
 # 7. Online Security:
 As shown in following graph, most customers churn due to lack of online security
 <img width="406" height="321" alt="Image" src="https://github.com/user-attachments/assets/f83f0dde-48a1-4dca-be3f-477be72aa6b7" />
+
 Churn distribution w.r.t online security
 
 # 8. Senior Citizen:
 Most of the senior citizens churn; the number of senior citizens are very less in over all customer base.
 <img width="341" height="322" alt="Image" src="https://github.com/user-attachments/assets/16595d00-9db2-4645-855a-aeaf5fa51973" />
+
 Churn distribution w.r.t Senior Citizen
 
 # 9. Paperless Booking:
@@ -94,6 +97,7 @@ Churn distribution w.r.t mode of booking
 #  10. Tech support:
 As shown in following chart, customers with no TechSupport are most likely to migrate to another service provider.
 <img width="405" height="322" alt="Image" src="https://github.com/user-attachments/assets/59461543-ce32-497e-a784-7f13f2f6bdfe" />
+
 Churn distribution w.r.t Tech support
 
 # 11. Distribution w.r.t Monthly and Total Charges :
