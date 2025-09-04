@@ -1,6 +1,6 @@
 # Capstone-project
 Telecom churn data analysis using Power BI, SQL, Python
-<img width="870" height="496" alt="Image" src ="https://github.com/user-attachments/assets/d0061d2c-28ac-4b74-a2fa-bfc70c5b9bab"/>
+![Image](https://github.com/user-attachments/assets/43ab8e48-3455-4aa1-887b-0077cca01f42)
 
 
 <img width="878" height="496" alt="Image" src="https://github.com/user-attachments/assets/2825a0db-c63c-44db-94f8-99bfbe1d952c" />
